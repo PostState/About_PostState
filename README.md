@@ -1,6 +1,7 @@
 # Welcome to the Decentralized Digital Poststate
 
-https://github.com/PostState/About_PostState/blob/main/Scheme_of_PostState.png
+![Scheme_of_PostState](https://user-images.githubusercontent.com/38581319/226148749-0dba5b5a-7db2-4750-bdc2-6bdbb09b61fb.jpg)
+[FullPicture](https://github.com/PostState/About_PostState/blob/main/Scheme_of_PostState.png)
 
 We are creating a Decentralized Digital Poststate, which will show us a positive and constructive example of how to solve the existing Economic, Social and Cultural-Psychological problems!
 
