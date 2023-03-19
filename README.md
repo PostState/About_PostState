@@ -1,8 +1,5 @@
 # Welcome to the Decentralized Digital Poststate
 
-![Scheme_of_PostState](https://user-images.githubusercontent.com/38581319/226148749-0dba5b5a-7db2-4750-bdc2-6bdbb09b61fb.jpg)
-[FullPicture](https://github.com/PostState/About_PostState/blob/main/Scheme_of_PostState.png)
-
 We are creating a Decentralized Digital Poststate, which will show us a positive and constructive example of how to solve the existing Economic, Social and Cultural-Psychological problems!
 
 We are people who live all over the world in the territories of various states, but at the same time, we spend most of our time on the Internet
@@ -61,23 +58,3 @@ Poststate is a tool that Citizens use to protect their rights and interests:
 - Poststate should not have any functionality that would allow infringing or violating the rights and interests of Citizens
 - If there is any possibility of infringement of the rights and interests of Citizens by the Poststate, Citizens are obliged to reformat the Poststate, and the reformatting functionality must be present in the functionality of the Poststate
 - Foundations of the Poststate can be changed and supplemented over time, based on the interests of the Citizens, and by the will of the Citizens
-
-## Functionality of the Decentralized Digital Poststate
-### A digital tool for solving real problems
-
-The functionality of the Decentralized Digital Poststate should be to meet the following needs of Citizens:
-- Economic
-- Social
-- Cultural and Psychological
-
-To meet the Economic needs of Citizens, the Poststate provides a secure Digital Space in which Citizens and Users can perform any form of economic interaction
-
-Also, the Poststate must ensure its own security
-
-The Poststate provides services and digital products that can be used not only by Citizens, but also by any other Internet Users
-
-The economic activity of the Poststate brings profit, which is distributed among the Citizens
-
-The Poststate protects the privacy of its Citizens, and privacy protection is one of the functions of the Poststate
-
-The functionality of the Poststate can be changed and supplemented over time, based on the interests of the Citizens, and by the will of the Citizens
