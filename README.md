@@ -63,5 +63,5 @@ Poststate is a tool that Citizens use to protect their rights and interests:
 - If there is any possibility of infringement of the rights and interests of Citizens by the Poststate, Citizens are obliged to reformat the Poststate, and the reformatting functionality must be present in the functionality of the Poststate
 - Foundations of the Poststate can be changed and supplemented over time, based on the interests of the Citizens, and by the will of the Citizens
 
-[Prototype of New Decentralized Governance Model](https://github.com/PostState/About_PostState/blob/main/Decentralized_Governance_Model.md)
-[Functionality of the PostState](https://github.com/PostState/About_PostState/blob/main/Functionality_of_PostState.md)
+- [Prototype of New Decentralized Governance Model](https://github.com/PostState/About_PostState/blob/main/Decentralized_Governance_Model.md)
+- [Functionality of the PostState](https://github.com/PostState/About_PostState/blob/main/Functionality_of_PostState.md)
