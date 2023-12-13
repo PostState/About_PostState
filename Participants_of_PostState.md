@@ -1,9 +1,9 @@
-# Actors of the PostState
+# Participants of the PostState
 
 At the moment, we can single out the following Actors of the Poststate:
 - Citizens
 - Users
-- Governors
+- Actors
 - Validators
 - Gamers
 - Artificial Intelligence
@@ -39,7 +39,7 @@ for example, in other networks, or on the territory of classical states
 
 The place of residence of the Poststate Citizen in the territory of any classical state is considered as the embassy of the Poststate in the territory of the classical state
 
-The Citizen (and only a Citizen) can gain additional Governors status
+The Citizen (and only a Citizen) can gain additional Actors status
 Citizens and Users can gain additional status within the Poststate, such as Gamer and/or Validator
 In this cases, Citizens get access to additional functionality, which also gives additional obligations
 
@@ -53,22 +53,22 @@ The granting of the status of a Citizen to an Artificial Intelligence may not oc
 
 The list of rights, interests and obligations of Citizens can change and be supplemented over time, based on the interests of Citizens, and by the will of Citizens
 
-# GOVERNORS
+# ACTORS
 ## Participation in the Decentralized Governance of the Poststate
 
 The Decentralized Digital Poststate must be run by Citizens!
 
-To implement Decentralized Governance in the PS, there is a Posthuman Governance Token ($PHMN)
+To implement Decentralized Governance in the PS, there is a Governance Token ($VOTE)
 
-You can read more about the $PHMN governance token ​here
+You can read more about the $VOTE governance token ​here
 
-Any Citizen who expresses a desire to become a Governor can take part in the Poststate Governance
+Any Citizen who expresses a desire to become a Actor can take part in the Poststate Governance
 
-Only a Citizen can receive the status of a Governor
+Only a Citizen can receive the status of a Actor
 
-The status of a Governor can be obtained solely by one’s own will, and no one can force a Citizen to become a Governor
+The status of a Actor can be obtained solely by one’s own will, and no one can force a Citizen to become a Actor
 
-The status of a Governor gives the Citizen additional functionality that is not available to the Citizen and the User, but at the same time the Governor takes on additional responsibilities that Citizens and Users don’t have
+The status of a Actor gives the Citizen additional functionality that is not available to the Citizen and the User, but at the same time the Actor takes on additional responsibilities that Citizens and Users don’t have
 
 In classical states, the Government tries to find out as much information as possible about Citizens, which violates the right to Citizens’ Privacy.
 At the same time, Citizens don’t have information about people who are in the Government, despite the fact that the Government is a public institution.
@@ -78,15 +78,15 @@ In the Poststate, Governance don’t have (and are not entitled to demand) any p
 
 At the same time, a Citizen who has decided to enter the Decentralized Governance of the Poststate must disclose personal data about her-him-it-self, since the Governance is a public activity, and Citizens have the right to know who and how is governing the PS
 
-In case of refusal to disclose their data, the Citizen cannot receive the status of a Governor
+In case of refusal to disclose their data, the Citizen cannot receive the status of a Actor
 
-Governors may propose and consider any Proposals, as well as vote on Proposals
+Actors may propose and consider any Proposals, as well as vote on Proposals
 
 The Proposal will become effective if the Proposal is accepted by the Poststate Governance, provided that 13% of the Citizens are not opposed to the adoption
 
-The Voice Power of each of the Governors is directly proportional to the number of $PHMN Governance Tokens held (not in free circulation) within the PS
+The Voice Power of each of the Actors is directly proportional to the number of $PHMN Governance Tokens held (not in free circulation) within the PS
 
-A Governor who doesn’t hold $PHMN Governance Tokens has the same rights and obligations as a Governor who holds $PHMN Governance Tokens, but her-his-it Voice Power is zero
+A Actor who doesn’t hold $VOTE Governance Tokens has the same rights and obligations as a Actors who holds $VOTE Governance Tokens, but her-his-it Voice Power is zero
 
 # VALIDATORS
 ## Digital army for the defense, not an attack
