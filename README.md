@@ -1,5 +1,7 @@
 # Welcome to the Decentralized Digital Poststate
 
+[Scheme of the PostState](https://github.com/PostState/About_PostState/blob/main/Scheme_of_PostState.png)
+
 We are creating a Decentralized Digital Poststate, which will show us a positive and constructive example of how to solve the existing Economic, Social and Cultural-Psychological problems!
 
 We are people who live all over the world in the territories of various states, but at the same time, we spend most of our time on the Internet
@@ -42,9 +44,11 @@ Our Decentralized Digital Poststate based on Blockchain technology, solves the p
 - POSTHUMAN BLOCKCHAIN is a bridge between Web2 and Web3, a bridge between the Material World and the Digital World!
 - POSTHUMAN BLOCKCHAIN is a Decentralized Digital Poststate!
 
-## Foundations of the Decentralized Digital Poststate
+## Foundations of the Decentralized Digital PostState
 
-### Poststate for Citizens, not Citizens for Poststate!
+### PostState for Citizens, not Citizens for PostState!
+
+[Participants of the PostState](https://github.com/PostState/About_PostState/blob/main/Participants_of_PostState.md)
 
 The most important value for the Decentralized Digital Poststate is Citizens!
 
@@ -54,7 +58,10 @@ Citizens (protection of their rights and interests) are the main reason for the 
 
 Poststate is a tool that Citizens use to protect their rights and interests:
 
-- Poststate is not able to manage, coerce or tell Citizens how to act in any way
-- Poststate should not have any functionality that would allow infringing or violating the rights and interests of Citizens
+- PostState is not able to manage, or tell Citizens how to act in any way
+- PostState should not have any functionality that would allow infringing or violating the rights and interests of Citizens
 - If there is any possibility of infringement of the rights and interests of Citizens by the Poststate, Citizens are obliged to reformat the Poststate, and the reformatting functionality must be present in the functionality of the Poststate
 - Foundations of the Poststate can be changed and supplemented over time, based on the interests of the Citizens, and by the will of the Citizens
+
+[Prototype of New Decentralized Governance Model](https://github.com/PostState/About_PostState/blob/main/Decentralized_Governance_Model.md)
+[Functionality of the PostState](https://github.com/PostState/About_PostState/blob/main/Functionality_of_PostState.md)
